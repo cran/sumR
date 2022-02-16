@@ -1,8 +1,8 @@
 Package: sumR
 Type: Package
 Title: Approximates Summation of Discrete Series
-Version: 0.4.3
-Date: 2022-02-12
+Version: 0.4.4
+Date: 2022-02-15
 Authors@R: c(person("Guido", "A. Moreira", email = "guidoalber@gmail.com",
               role = c("cre","aut"), comment=c(ORCID="0000-0001-7557-0874")),
              person("Luiz Max", "Carvalho", email = "lmax.fgv@gmail.com",
@@ -18,8 +18,8 @@ Encoding: UTF-8
 RoxygenNote: 7.1.2
 Imports: matrixStats
 NeedsCompilation: yes
-Packaged: 2022-02-12 09:15:27 UTC; anthorg
+Packaged: 2022-02-15 16:41:41 UTC; anthorg
 Author: Guido A. Moreira [cre, aut] (<https://orcid.org/0000-0001-7557-0874>),
   Luiz Max Carvalho [ctb] (<https://orcid.org/0000-0001-5736-5578>)
 Repository: CRAN
-Date/Publication: 2022-02-14 10:10:05 UTC
+Date/Publication: 2022-02-16 09:20:03 UTC
