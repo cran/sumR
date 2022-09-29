@@ -1,8 +1,8 @@
-c0ccd3c688c3c4407db788518feaa951 *DESCRIPTION
+cf9c1f0c5980b7bef561a6bc51331be3 *DESCRIPTION
 317b799c25a3e494232e7f07465cb7d0 *NAMESPACE
-dba58151d3f56662bccaa868a166464a *R/batches.R
-dd5305c8310f5b605311c508c672a106 *R/finiteSum.R
-72b1d7067c5551c57202df5e78655f33 *R/infiniteSum.R
+58be37790d2282ec9374d45a41e49d26 *R/batches.R
+1b31b03ff987e4bcf1596ef64b7d49f1 *R/finiteSum.R
+4cf561b85e2b4dcc8448a2bda8df85fa *R/infiniteSum.R
 0855de6f726faedb8087f8a48f1b4e1e *R/precompiled.R
 af625c0c8b6e5e733ffd1b2aec85208e *R/sumR-package.R
 4d9b8877cb4be43692ca0b3da543dd6a *R/summed-class.R
@@ -10,13 +10,14 @@ af625c0c8b6e5e733ffd1b2aec85208e *R/sumR-package.R
 53c19d27401395aa9365cc24ebe159a3 *inst/include/sumR.h
 a07afec5bb55666d28456fcfeda1f3cc *inst/include/sumR_internal.h
 24831b106d60a0ae826431b9e6dd0293 *man/figures/logo.jpeg
-de7819f33d398dfbd65e16ce27eb09e4 *man/finiteSum.Rd
-787f8e3d2d665a0bf61f9d27569c6679 *man/infiniteSum.Rd
-76d5a7753405085377889059b0ee7bc5 *man/infiniteSum_batches.Rd
+748365cf0c057bd0cd26f3aa625cf9b2 *man/finiteSum.Rd
+04838aa89897dc0b52372d808af5156a *man/infiniteSum.Rd
+8ffeb4dd0d5c1ee318bfeb7d19b93757 *man/infiniteSum_batches.Rd
 db08f550b4193e845215304f55fa9bb3 *man/precompiled.Rd
 97c71999286010481761f2ff5e6aea52 *man/sumR.Rd
 c9ce84169a0d82f8626139c97387ca27 *man/summed-objects.Rd
 3f03da795dd26373156bddc78d41e95d *src/Makevars
+2cec33791efd347cbcb051402d7cf9c4 *src/Makevars.ucrt
 3f03da795dd26373156bddc78d41e95d *src/Makevars.win
 c051b53a0af914c65129e256b04ba492 *src/infiniteBatches.c
 e3755261b8211c8b3e2f2f46352a5cf1 *src/infiniteErrorBoundingPairs.c
@@ -28,5 +29,5 @@ a8571c7f001368211c733a08dc80997b *src/math.h
 06da935c162e4284411e8d157d252f65 *src/precompiled.c
 b5442ff0cb5b115f994c5d55c769a4c9 *src/precompiled.h
 f2eabbed3f90f60213001049b66e344b *src/r_wrappers.c
-daf8b63cbcf206b337bbfd5c89ab973d *src/r_wrappers.h
+cf3416aba85d4b4cf942cae847706741 *src/r_wrappers.h
 168f670b5a63098a92d926dd8c82a962 *src/sumNTimes.c
