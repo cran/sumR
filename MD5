@@ -1,4 +1,4 @@
-cf9c1f0c5980b7bef561a6bc51331be3 *DESCRIPTION
+92be6a4eb96827267abb5d264f82f03d *DESCRIPTION
 317b799c25a3e494232e7f07465cb7d0 *NAMESPACE
 58be37790d2282ec9374d45a41e49d26 *R/batches.R
 1b31b03ff987e4bcf1596ef64b7d49f1 *R/finiteSum.R
@@ -29,5 +29,5 @@ a8571c7f001368211c733a08dc80997b *src/math.h
 06da935c162e4284411e8d157d252f65 *src/precompiled.c
 b5442ff0cb5b115f994c5d55c769a4c9 *src/precompiled.h
 f2eabbed3f90f60213001049b66e344b *src/r_wrappers.c
-cf3416aba85d4b4cf942cae847706741 *src/r_wrappers.h
+8de96d05206ee7c119290cb47857ae39 *src/r_wrappers.h
 168f670b5a63098a92d926dd8c82a962 *src/sumNTimes.c
