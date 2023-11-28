@@ -1,4 +1,4 @@
-ccbab1ffff92f2665a43bb4ebbc9f280 *DESCRIPTION
+45e0e01f85516318be2a2bbefe67e07a *DESCRIPTION
 317b799c25a3e494232e7f07465cb7d0 *NAMESPACE
 46e5cdea774682d2f70fa6b42cf57348 *R/batches.R
 359a44a535a9e442f2e4c3d472befeeb *R/finiteSum.R
@@ -13,7 +13,7 @@ a07afec5bb55666d28456fcfeda1f3cc *inst/include/sumR_internal.h
 1adf031eda370899c2b9c34ddeb0174e *man/finiteSum.Rd
 fb5ab1a79609e46d9a0477b178abc396 *man/infiniteSum.Rd
 741aa12f018172b854b3cdd8752da040 *man/infiniteSum_batches.Rd
-96e4bd37722f9aec6e2029329a410cf9 *man/precompiled.Rd
+728037c092959b4f3e0c6e38806d52af *man/precompiled.Rd
 9019e7ffafbc30b6af0624343d41b21a *man/sumR.Rd
 987cfe635242036aa374028d277f6416 *man/summed-objects.Rd
 3f03da795dd26373156bddc78d41e95d *src/Makevars
@@ -28,6 +28,6 @@ e3b18fb278f6cda10d8e18068a17a072 *src/infiniteSumToThreshold.c
 a8571c7f001368211c733a08dc80997b *src/math.h
 06da935c162e4284411e8d157d252f65 *src/precompiled.c
 b5442ff0cb5b115f994c5d55c769a4c9 *src/precompiled.h
-f2eabbed3f90f60213001049b66e344b *src/r_wrappers.c
+82e70e9b214b666fc4a9ac627c8c9e14 *src/r_wrappers.c
 7fee46eaa64ad73ab61f06e56938d379 *src/r_wrappers.h
 abd41dbf8586ef94f3923bec63134656 *src/sumNTimes.c
